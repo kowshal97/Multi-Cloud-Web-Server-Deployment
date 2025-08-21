@@ -41,8 +41,8 @@ The project required setting up **custom networking, compute, load balancing, an
 ---
 
 ## 📂 Repository Contents  
-📄 **Multi Cloud.docx / PDF** → Detailed documentation with steps and screenshots  
-📝 [Project documentation](https://github.com/kowshal97/Multi-Cloud-Web-Server-Deployment/raw/main/Multi%20Cloud.docx)  
+→ Detailed documentation with steps and screenshots  
+📝 [Multi Cloud](https://github.com/kowshal97/Multi-Cloud-Web-Server-Deployment/raw/main/Multi%20Cloud.docx)  
 
 ---
 
