@@ -1,4 +1,4 @@
-# 🌐 Multi-Cloud Web Application Deployment – Assignment 2  
+# 🌐 Multi-Cloud Web Application Deployment
 
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)  
 ![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Azure-orange)  
