@@ -10,7 +10,7 @@
 
 ## 📌 Overview  
 This project demonstrates the deployment of a **highly available and scalable web application** across **AWS, GCP, and Azure**.  
-The assignment required setting up **custom networking, compute, load balancing, and auto-scaling policies** to ensure **redundancy, security, and fault tolerance**.  
+The project required setting up **custom networking, compute, load balancing, and auto-scaling policies** to ensure **redundancy, security, and fault tolerance**.  
 
 ---
 
@@ -41,8 +41,8 @@ The assignment required setting up **custom networking, compute, load balancing,
 ---
 
 ## 📂 Repository Contents  
-📄 **Assignment2_Report.docx / PDF** → Detailed documentation with steps and screenshots  
-📝 **README.md** → Project documentation (this file)  
+📄 **Multi Cloud.docx / PDF** → Detailed documentation with steps and screenshots  
+📝 **README.md** → Project documentation (https://github.com/kowshal97/Multi-Cloud-Web-Server-Deployment/raw/main/Multi%20Cloud.docx)  
 
 ---
 
